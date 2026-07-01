@@ -12,5 +12,5 @@
   - Full-stack web & iOS @ [Reaktor Japan](https://www.reaktor.com/)
   - Full-stack web & iOS @ [Wantedly](https://wantedlyinc.com/ja)
 - 🌱 I’m currently diving deeper into LLM serving at scale
-- 🚶 Endlessly learning languages, now working on my Mandarin Chinese after a decade+ of learning Japanese
+- 🚶 Endlessly learning languages, now working on my German after a decade+ of learning Japanese & Mandarin Chinese
 - 📫 You can reach out to me on Twitter if you need to contact me
