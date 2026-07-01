@@ -5,8 +5,9 @@
 <a href="https://antonve.be/projects"><img src="https://img.shields.io/badge/-Projects-%23ff225a" alt="Projects"/></a>
 
 - 📚 Currently working on [Tadoku](https://tadoku.app/blog), a language learning reading contest
-- 🚗 Currently building matching systems @ [indeed.com](https://www.indeed.com/).
+- 🚗 Currently building AI systems @ [Third Intelligence](https://third-intelligence.com/en).
 - ⏰ Previously
+  - Inference @ [indeed.com](https://www.indeed.com/)
   - Backend & infra @ [Drivemode](https://www.drivemode.com/)
   - Full-stack web & iOS @ [Reaktor Japan](https://www.reaktor.com/)
   - Full-stack web & iOS @ [Wantedly](https://wantedlyinc.com/ja)
